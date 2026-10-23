@@ -1,7 +1,7 @@
 # TP2 - Programación de Videojuegos 1
 
-- **Estudiante:** [Tu Nombre y Apellido]
-- **Legajo / LU:** [Tu número]
+- **Estudiante:** [Mauricio Agustin Tolaba Patagua]
+- **Legajo / LU:** [TUV000880]
 - **Unity:** 6.3 LTS
 - **Perspectiva:** Primera Persona
 - **Fecha:** 23/10/2026
